@@ -20,3 +20,5 @@ If you want to change the images or videos themselves:
 - Replace an image/video with whatever you want (make sure the name remains the same)
 - Then you can update the associated file in ```images```
 	- This is the preview image shown when no wallpaper is selected so make sure that the version in ```images``` is lower quality to reduce lag
+
+> The original ```1.webm``` file was too large so it's just a duplicate of ```2.webm``` for now, sorry
